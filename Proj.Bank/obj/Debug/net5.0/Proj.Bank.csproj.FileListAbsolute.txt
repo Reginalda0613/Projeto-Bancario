@@ -1,0 +1,16 @@
+C:\Users\regin\Documents\PROJETO-Bancario\Proj.Bank\bin\Debug\net5.0\Proj.Bank.exe
+C:\Users\regin\Documents\PROJETO-Bancario\Proj.Bank\bin\Debug\net5.0\Proj.Bank.deps.json
+C:\Users\regin\Documents\PROJETO-Bancario\Proj.Bank\bin\Debug\net5.0\Proj.Bank.runtimeconfig.json
+C:\Users\regin\Documents\PROJETO-Bancario\Proj.Bank\bin\Debug\net5.0\Proj.Bank.runtimeconfig.dev.json
+C:\Users\regin\Documents\PROJETO-Bancario\Proj.Bank\bin\Debug\net5.0\Proj.Bank.dll
+C:\Users\regin\Documents\PROJETO-Bancario\Proj.Bank\bin\Debug\net5.0\ref\Proj.Bank.dll
+C:\Users\regin\Documents\PROJETO-Bancario\Proj.Bank\bin\Debug\net5.0\Proj.Bank.pdb
+C:\Users\regin\Documents\PROJETO-Bancario\Proj.Bank\obj\Debug\net5.0\Proj.Bank.csproj.AssemblyReference.cache
+C:\Users\regin\Documents\PROJETO-Bancario\Proj.Bank\obj\Debug\net5.0\Proj.Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\regin\Documents\PROJETO-Bancario\Proj.Bank\obj\Debug\net5.0\Proj.Bank.AssemblyInfoInputs.cache
+C:\Users\regin\Documents\PROJETO-Bancario\Proj.Bank\obj\Debug\net5.0\Proj.Bank.AssemblyInfo.cs
+C:\Users\regin\Documents\PROJETO-Bancario\Proj.Bank\obj\Debug\net5.0\Proj.Bank.csproj.CoreCompileInputs.cache
+C:\Users\regin\Documents\PROJETO-Bancario\Proj.Bank\obj\Debug\net5.0\Proj.Bank.dll
+C:\Users\regin\Documents\PROJETO-Bancario\Proj.Bank\obj\Debug\net5.0\ref\Proj.Bank.dll
+C:\Users\regin\Documents\PROJETO-Bancario\Proj.Bank\obj\Debug\net5.0\Proj.Bank.pdb
+C:\Users\regin\Documents\PROJETO-Bancario\Proj.Bank\obj\Debug\net5.0\Proj.Bank.genruntimeconfig.cache
